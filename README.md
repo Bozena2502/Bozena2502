@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bozena
+- 👀 I’m looking for IT Developers (Back: NodeJS, PHP, .NET; Front: Vue, React, Angular)
+- 🌱 I’m currently learning HTML, CSS, JS
+- 📫 How to reach me: bozena.machowska@gmail.com 
